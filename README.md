@@ -41,7 +41,7 @@ AsyncStorage (for storing favorites)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/MovieSearchApp.git
+git clone https://github.com/imohitsikarwar/MovieSearchApp.git
 cd MovieSearchApp
 
 2️⃣ Install Dependencies
