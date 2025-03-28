@@ -75,14 +75,10 @@ If needed, get your own API key from OMDb API.
 📂 Project Structure
 
 MovieSearchApp/
-│-- src/
-│   │-- components/
-│   │   ├── MovieCard.js
-│   │-- screens/
-│   │   ├── HomeScreen.js
-│   │   ├── DetailsScreen.js
-│   │-- utils/
-│   │   ├── storage.js
+│-- MovieCard.js
+│-- HomeScreen.js
+│-- DetailsScreen.js
+│-- storage.js
 │-- App.js
 │-- package.json
 │-- README.md
